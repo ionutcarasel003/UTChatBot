@@ -1,0 +1,9 @@
+MAX_LEN = 20
+BATCH_SIZE = 16
+EMBED_DIM = 64
+HIDDEN_DIM = 128
+EPOCHS = 200
+DATA_PATH = "data/qa_contextual_enhanced.json"
+PAD_TOKEN = "<PAD>"
+SOS_TOKEN = "<SOS>"
+EOS_TOKEN = "<EOS>"
