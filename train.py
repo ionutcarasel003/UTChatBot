@@ -6,7 +6,10 @@ from preprocessing import load_data, build_vocab, tokenize
 from dataset import QADataset
 from model import Seq2SeqLSTM
 
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+device = torch.device("cuda"
+                      ""
+                      "" if torch.cuda.is_available() else "cpu")
+print(device)
 
 # Load and prepare data
 pairs = load_data()
