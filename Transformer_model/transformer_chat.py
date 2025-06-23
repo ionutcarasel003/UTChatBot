@@ -4,11 +4,9 @@ from transformer_dataset import Tokenizer
 from transformer_config import *
 import json
 
-# Load QA data just for tokenizer
 with open(DATA_PATH, "r", encoding="utf-8") as f:
     qa_pairs = [(item["question"], item["answer"]) for item in json.load(f)]
 
-# Setup tokenizer and model
 tokenizer = Tokenizer(qa_pairs)
 vocab_size = len(tokenizer.word2idx)
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -26,14 +24,12 @@ def generate_response(model, tokenizer, question, max_len=MAX_LEN):
         tgt_mask = model.generate_sqr_subsequent_mask(tgt.size(1)).to(device)
         out = model(src, tgt, tgt_mask=tgt_mask)
 
-        # Top-k sampling
         probs = torch.softmax(out[:, -1, :], dim=-1)
         topk = torch.topk(probs, k=10, dim=-1)
         indices = topk.indices[0]
         values = topk.values[0]
         next_token = indices[torch.multinomial(values, 1)].unsqueeze(0)
 
-        # Adaugă tokenul generat
         tgt = torch.cat([tgt, next_token], dim=1)
 
         # Dacă e <EOS>, oprim
@@ -43,7 +39,7 @@ def generate_response(model, tokenizer, question, max_len=MAX_LEN):
     decoded = tokenizer.decode(tgt[0].tolist())
     return decoded
 
-print("🤖 Chatbot is ready! Type 'exit' to quit.")
+print("Chatbot is ready! Type 'exit' to quit.")
 while True:
     question = input("You: ")
     if question.lower().strip() == "exit":

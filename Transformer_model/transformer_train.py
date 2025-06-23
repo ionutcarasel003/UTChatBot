@@ -9,7 +9,6 @@ import matplotlib.pyplot as plt
 
 best_loss = float('inf')
 
-# Load and tokenize data
 with open(DATA_PATH, "r", encoding="utf-8") as f:
     pairs = [(item["question"], item["answer"]) for item in json.load(f)]
 
@@ -20,7 +19,7 @@ data_loader = DataLoader(dataset, batch_size=BATCH_SIZE, shuffle=True)
 vocab_size = len(tokenizer.word2idx)
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model = TransformerChatBot(vocab_size).to(device)
-criterion = nn.CrossEntropyLoss(ignore_index=tokenizer.word2idx[PAD_TOKEN])
+criterion = nn.CrossEntropyLoss(ignore_index=tokenizer.word2idx[PAD_TOKEN], label_smoothing=0.1)
 optimizer = optim.Adam(model.parameters(), lr=LR)
 
 losses = []
@@ -35,11 +34,9 @@ for epoch in range(EPOCHS):
         tgt_input = tgt[:, :-1]
         tgt_output = tgt[:, 1:]
 
-        # Boolean masks
-        src_key_padding_mask = (src == tokenizer.word2idx[PAD_TOKEN])
-        tgt_key_padding_mask = (tgt_input == tokenizer.word2idx[PAD_TOKEN])
+        src_key_padding_mask = (src == tokenizer.word2idx[PAD_TOKEN]).float()
+        tgt_key_padding_mask = (tgt_input == tokenizer.word2idx[PAD_TOKEN]).float()
 
-        # Debug shape checks
         assert src.shape == src_key_padding_mask.shape, "Mask shape mismatch for src"
         assert tgt_input.shape == tgt_key_padding_mask.shape, "Mask shape mismatch for tgt"
 

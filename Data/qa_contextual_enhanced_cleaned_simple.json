@@ -2830,5 +2830,661 @@
   {
     "question": "How is Volunteer 2468 evaluated?",
     "answer": "Type activity 10.1. Evaluation criteria 10.2."
+  },
+    {
+    "question": "Who teaches the Administration of databases?",
+    "answer": "Conf. dr. ing. Delia"
+  },
+  {
+    "question": "Who teaches the Administration of computer networks?",
+    "answer": "Conf. dr. ing. Emil Cebuc"
+  },
+  {
+    "question": "Who teaches the Administration of operating systems?",
+    "answer": "Conf. dr. ing. Ciprian Oprișa"
+  },
+  {
+    "question": "Who teaches the Linear algebra and analytical geometry?",
+    "answer": "Prof. dr. Radu Peter"
+  },
+  {
+    "question": "Who teaches the Algoritmi fundamentali?",
+    "answer": "Prof. dr. ing. Rodica Potolea"
+  },
+  {
+    "question": "Who teaches the Mathematics I (differential calculation) analysis?",
+    "answer": "Prof. dr. Dorian Popa"
+  },
+  {
+    "question": "Who teaches the Analog and digital circuits?",
+    "answer": "Assoc. prof. dr. eng. Bogdan Iancu"
+  },
+  {
+    "question": "Who teaches the Entrepreneurship?",
+    "answer": "Dr.ec. Simona Sabo Martis , simona.martis@staff.utcluj.ro"
+  },
+  {
+    "question": "Who teaches the Computers architecture?",
+    "answer": "Prof.dr. ing. Florin Oniga"
+  },
+  {
+    "question": "Who teaches the Artificial intelligence?",
+    "answer": "Prof. dr. eng. Groza Adrian"
+  },
+  {
+    "question": "Who teaches the Assembly Language Programming?",
+    "answer": "Assoc. prof. dr. eng. Emil Cebuc"
+  },
+  {
+    "question": "Who teaches the Baze de Date?",
+    "answer": "CD asoc. ing. Cosmina Ivan"
+  },
+  {
+    "question": "Who teaches the The basis of quantum information?",
+    "answer": "CS1 Dr.  Liviu Zarbo – liviu.zarbo@itim"
+  },
+  {
+    "question": "Who teaches the Parallel and distributed?",
+    "answer": "CD asoc. ing. Cosmina Ivan"
+  },
+  {
+    "question": "Who teaches the Analog and numerical circuits?",
+    "answer": "Conf. dr. ing. Adrian Peculea"
+  },
+  {
+    "question": "Who teaches the Communication protocols and networks project?",
+    "answer": "Assoc. prof. dr. eng. Emil Cebuc"
+  },
+  {
+    "question": "Who teaches the Computer Architecture?",
+    "answer": "Prof.dr.eng. Florin Oniga – Florin.Oniga@cs.utcluj.ro \nAssoc.prof.dr.eng.  Mihai Negru – Mihai.Negru@cs.utcluj.ro \nLect.dr.eng. Cristian"
+  },
+  {
+    "question": "Who teaches the Computer Assisted Graphics?",
+    "answer": "Prof. dr. eng. Gorgan Dorian"
+  },
+  {
+    "question": "Who teaches the Computer Network Design?",
+    "answer": "Assoc. prof. dr. eng. Emil"
+  },
+  {
+    "question": "Who teaches the Computer networks?",
+    "answer": "Prof. dr. eng. Vasile Dădârlat"
+  },
+  {
+    "question": "Who teaches the Computer Programming?",
+    "answer": "Lect. dr. eng. Marius Joldoş"
+  },
+  {
+    "question": "Who teaches the Cryptology?",
+    "answer": "Prof. dr. ing. Alin Suciu"
+  },
+  {
+    "question": "Who teaches the Cryptology?",
+    "answer": "Prof. dr. eng. Alin Suciu"
+  },
+  {
+    "question": "Who teaches the Data Structures and Algorithms?",
+    "answer": "Lect. dr. eng. Marius Joldoş"
+  },
+  {
+    "question": "Who teaches the DataBase Design?",
+    "answer": "Lect. dr. eng. Călin Cenan"
+  },
+  {
+    "question": "Who teaches the DataBase?",
+    "answer": "Lect. dr. eng. Călin Cenan"
+  },
+  {
+    "question": "Who teaches the Design with Microprocessors?",
+    "answer": "Prof. dr. eng. Radu Dănescu"
+  },
+  {
+    "question": "Who teaches the Personal and Professional Development, Ethics and Academic Integrity?",
+    "answer": "Lecturer dr. Mihai"
+  },
+  {
+    "question": "Who teaches the Development and integration of computer systems?",
+    "answer": "Prof. dr. ing. Ionuţ Anghel"
+  },
+  {
+    "question": "Who teaches the Specialization didactics?",
+    "answer": "Asist. dr. ing. Carmen"
+  },
+  {
+    "question": "Who teaches the Digital Systems Design?",
+    "answer": "Prof. dr. eng. Creţ Octavian"
+  },
+  {
+    "question": "Who teaches the Distributed systems?",
+    "answer": "Assoc. prof. dr. eng. Cristina Pop"
+  },
+  {
+    "question": "Who teaches the Economic law?",
+    "answer": "Assoc. Prof. dr. I swear. Roxana Cordoș"
+  },
+  {
+    "question": "Who teaches the Physical education and sports?",
+    "answer": "As. dr. Suciu Marius"
+  },
+  {
+    "question": "Who teaches the Physical education and sports II?",
+    "answer": "As. dr. Suciu Marius"
+  },
+  {
+    "question": "Who teaches the Elaboration of the diploma project?",
+    "answer": "Supervisor License Project"
+  },
+  {
+    "question": "Who teaches the Electronic Measurements and Sensors?",
+    "answer": "Assoc. Professor Rodica Holonec, Phd eng"
+  },
+  {
+    "question": "Who teaches the Electrotechnics?",
+    "answer": "Assoc. prof. dr. eng. Laura Darabant"
+  },
+  {
+    "question": "Who teaches the electrical?",
+    "answer": "Conf. dr. ing. Laura Darabant"
+  },
+  {
+    "question": "Who teaches the English I?",
+    "answer": "Lector dr. Monica Negoescu"
+  },
+  {
+    "question": "Who teaches the English II?",
+    "answer": "Lector dr. Monica Negoescu"
+  },
+  {
+    "question": "Who teaches the English Language I (Technical Documents Elaboration)?",
+    "answer": "Lecturer dr. Monica Negoescu"
+  },
+  {
+    "question": "Who teaches the Fizica?",
+    "answer": "Conf. dr. Mihai Gabor (series A) Mihai.gabor@phys.utcluj.ro \nConf. dr. Traian Petrișor (series B) Traian.petrisorjr@phys.utcluj.ro"
+  },
+  {
+    "question": "Who teaches the Foreign Language II (English - Technical documents elaboration)?",
+    "answer": "Assoc.prof. dr. Sanda Paduretu"
+  },
+  {
+    "question": "Who teaches the Formal Languages and Translators?",
+    "answer": "Assoc. prof. dr. eng. Anca Mărginean"
+  },
+  {
+    "question": "Who teaches the Functional programming?",
+    "answer": "Assoc. Prof. dr. eng. Radu Răzvan Slăvescu"
+  },
+  {
+    "question": "Who teaches the Fundamental Algorithms?",
+    "answer": "Prof. dr. eng. Rodica Potolea"
+  },
+  {
+    "question": "Who teaches the Fundamental Programming Techniques?",
+    "answer": "Lect. dr. eng. Cristina Bianca Pop"
+  },
+  {
+    "question": "Who teaches the German Language I (Technical documents elaboration)?",
+    "answer": "Lector dr. Mona Tripon"
+  },
+  {
+    "question": "Who teaches the German Language I?",
+    "answer": "Lector dr. Mona Tripon"
+  },
+  {
+    "question": "Who teaches the German Language II (Technical documents elaboration)?",
+    "answer": "Lector dr. Mona Tripon"
+  },
+  {
+    "question": "Who teaches the German Language II?",
+    "answer": "Lector dr. Mona Tripon"
+  },
+  {
+    "question": "Who teaches the Graduation project defense?",
+    "answer": "Diploma project supervisor"
+  },
+  {
+    "question": "Who teaches the Graduation project?",
+    "answer": "Diploma project supervisor"
+  },
+  {
+    "question": "Who teaches the Computer assisted?",
+    "answer": "Conf. dr. ing. Victor Bâcu"
+  },
+  {
+    "question": "Who teaches the Graphic Processing?",
+    "answer": "Prof. dr. eng. Gorgan Dorian"
+  },
+  {
+    "question": "Who teaches the Image processing?",
+    "answer": "Prof. dr. eng. Florin Oniga"
+  },
+  {
+    "question": "Who teaches the Industrial computer science?",
+    "answer": "Prof. dr. ing. Gheorghe Sebestyen"
+  },
+  {
+    "question": "Who teaches the Information Systems?",
+    "answer": "Assoc. prof. dr. eng. Ovidiu Pop – Ovidiu.Pop@cs.utcluj.ro"
+  },
+  {
+    "question": "Who teaches the Inginerie software?",
+    "answer": "Prof. dr. ing. Eneia Todoran"
+  },
+  {
+    "question": "Who teaches the Input/Output Systems and Peripheral Devices?",
+    "answer": "Prof. er. eng. Zoltan Francisc Baruch"
+  },
+  {
+    "question": "Who teaches the Instruire Asistata de Calculator (Computer Supported Learning)?",
+    "answer": "Conf. dr. psycho. Ionuț"
+  },
+  {
+    "question": "Who teaches the Artificial intelligence?",
+    "answer": "Conf. dr. ing. Anca Mărginean"
+  },
+  {
+    "question": "Who teaches the Intelligent Systems?",
+    "answer": "Prof. dr. Eng Adrian Groza"
+  },
+  {
+    "question": "Who teaches the Human-calculator interaction?",
+    "answer": "Conf. dr. ing. Tiberiu Mariţa"
+  },
+  {
+    "question": "Who teaches the Knowledge-Based Systems?",
+    "answer": "Prof. dr. eng. Adrian Petru Groza"
+  },
+  {
+    "question": "Who teaches the Economic legislation?",
+    "answer": "Conf. dr. I swear. Cordoș Roxana Carmen"
+  },
+  {
+    "question": "Who teaches the Limba engleza I?",
+    "answer": "Conf. dr. Sonia Munteanu"
+  },
+  {
+    "question": "Who teaches the English language II - drafting technical documents?",
+    "answer": "Assoc Sonia Munteanu; Sonia.munteanu@lang.utcluj.ro"
+  },
+  {
+    "question": "Who teaches the Limba engleza II?",
+    "answer": "Conf. dr. Sonia Munteanu"
+  },
+  {
+    "question": "Who teaches the English I - drafting technical documents?",
+    "answer": "Conf. dr. Sonia Munteanu"
+  },
+  {
+    "question": "Who teaches the French I - drafting technical documents?",
+    "answer": "Lect. dr. Adina Forna"
+  },
+  {
+    "question": "Who teaches the French language i?",
+    "answer": "DR. Anamaria lupan, anamarialupan@yahoo.com"
+  },
+  {
+    "question": "Who teaches the French language II - drafting technical documents?",
+    "answer": "Lect.dr. Adina Forna, Adina.Forna@lang.utcluj.ro"
+  },
+  {
+    "question": "Who teaches the French II?",
+    "answer": "CDA DR. Anamaria lupan, anamarialupan@yahoo.com"
+  },
+  {
+    "question": "Who teaches the German I.?",
+    "answer": "Lect.dr. Mona Tripon"
+  },
+  {
+    "question": "Who teaches the German II?",
+    "answer": "Lect.dr. Mona Tripon"
+  },
+  {
+    "question": "Who teaches the Foreign Language I (German) - drafting technical documents?",
+    "answer": "Lect. dr. Mona Tripon"
+  },
+  {
+    "question": "Who teaches the Foreign (German) language - drafting technical documents?",
+    "answer": "Lect. dr. Mona Tripon"
+  },
+  {
+    "question": "Who teaches the Formal and translator languages?",
+    "answer": "Conf. dr. ing. Anca Mărginean"
+  },
+  {
+    "question": "Who teaches the Linear Algebra  and Analytical Geometry?",
+    "answer": "Prof. dr. Radu Peter"
+  },
+  {
+    "question": "Who teaches the Logic Design?",
+    "answer": "Computer Science and Information Technology"
+  },
+  {
+    "question": "Who teaches the Logic programming?",
+    "answer": "Prof. dr. eng. Rodica Potolea"
+  },
+  {
+    "question": "Who teaches the Management and communication?",
+    "answer": "Şl. dr. ec. Veronica Maier"
+  },
+  {
+    "question": "Who teaches the The management of the student class?",
+    "answer": "Education sciences"
+  },
+  {
+    "question": "Who teaches the Project management?",
+    "answer": "Prof. dr. ing. Mihaela Dînşoreanu"
+  },
+  {
+    "question": "Who teaches the Special Mathematics in Engineering?",
+    "answer": "Prof. dr. Ioan Gavrea"
+  },
+  {
+    "question": "Who teaches the Mathematical Analysis I (Differential calculus)?",
+    "answer": "Prof. dr. Dumitru"
+  },
+  {
+    "question": "Who teaches the Mathematical analysis II (Integral calculus and differential equations)?",
+    "answer": "Prof. dr. Dumitru"
+  },
+  {
+    "question": "Who teaches the Maintenance of computer systems?",
+    "answer": "Ing. Cornel Moisescu"
+  },
+  {
+    "question": "Who teaches the Numerical methods?",
+    "answer": "Prof. dr. Ioan Gavrea"
+  },
+  {
+    "question": "Who teaches the Methodology of drafting projects?",
+    "answer": "Conf. dr. ing. Tudor Mureșan"
+  },
+  {
+    "question": "Who teaches the Methodology of project preparation?",
+    "answer": "Conf. dr. ing. Tudor Mureșan"
+  },
+  {
+    "question": "Who teaches the Electronic measurements and sensors?",
+    "answer": "Prof. dr. ing. Radu Munteanu"
+  },
+  {
+    "question": "Who teaches the Numerical Methods?",
+    "answer": "Prof. dr. Dumitru"
+  },
+  {
+    "question": "Who teaches the Object Oriented Programming?",
+    "answer": "Lect. dr. eng. Marius Joldoș"
+  },
+  {
+    "question": "Who teaches the Operating Systems Design?",
+    "answer": "Assoc. prof. dr. eng. Adrian Coleşa"
+  },
+  {
+    "question": "Who teaches the Operating Systems?",
+    "answer": "Assoc. prof. dr. eng. Adrian Coleşa"
+  },
+  {
+    "question": "Who teaches the Parallel and Distributed Computing?",
+    "answer": "Assoc. prof. dr. eng. Anca Hângan"
+  },
+  {
+    "question": "Who teaches the Pattern Recognition Systems?",
+    "answer": "Prof. dr. eng. Sergiu Nedevschi"
+  },
+  {
+    "question": "Who teaches the Pedagogy I (the foundations of pedagogy. Curriculum theory and methodology)?",
+    "answer": "Conf. Univ. dr. Liana Crișan"
+  },
+  {
+    "question": "Who teaches the Pedagogy II (training theory and methodology. Theory and methodology of evaluation)?",
+    "answer": "Conf. Univ. dr. Liana Crișan"
+  },
+  {
+    "question": "Who teaches the Personal and Professional Development, Ethics and Academic Integrity?",
+    "answer": "Lecturer Ph.D. Mihai"
+  },
+  {
+    "question": "Who teaches the Physical education and sport I / II?",
+    "answer": " dr. Suciu Marius Adrian"
+  },
+  {
+    "question": "Who teaches the Physics?",
+    "answer": "Prof. dr. fiz. Radu Fechete"
+  },
+  {
+    "question": "Who teaches the Practica de domeniu?",
+    "answer": "Conf. dr. ing. Tiberiu Marița"
+  },
+  {
+    "question": "Who teaches the Specialized practice?",
+    "answer": "Conf. dr. ing. Tiberiu Marița"
+  },
+  {
+    "question": "Who teaches the Practica pedagogica  nivel I licenta?",
+    "answer": "Prof. Dr. Ing. Carmen BAL – carmen.bal@dppd.utcluj.ro"
+  },
+  {
+    "question": "Who teaches the Pedagogical practice II?",
+    "answer": "dr. ing. Iuhos Carmen"
+  },
+  {
+    "question": "Who teaches the Practice for the diploma project?",
+    "answer": "Diploma project leader"
+  },
+  {
+    "question": "Who teaches the Practical work for the graduation project?",
+    "answer": "Diploma project supervisor"
+  },
+  {
+    "question": "Who teaches the Practical work in the domain of study?",
+    "answer": "Assoc. Prof. dr. eng. Tiberiu Marița"
+  },
+  {
+    "question": "Who teaches the Practical work in the specialization?",
+    "answer": "Assoc. prof. dr. eng. Tiberiu Marita"
+  },
+  {
+    "question": "Who teaches the Graphic processing?",
+    "answer": "Prof. dr. ing. Dorian Gorgan"
+  },
+  {
+    "question": "Who teaches the Image processing?",
+    "answer": "Prof. dr. ing. Radu Dănescu"
+  },
+  {
+    "question": "Who teaches the Functional programming?",
+    "answer": "Conf. dr. ing. Radu Răzvan Slăvescu"
+  },
+  {
+    "question": "Who teaches the Logical programming?",
+    "answer": "Prof. dr. ing. Rodica Potolea"
+  },
+  {
+    "question": "Who teaches the Object -oriented programming?",
+    "answer": "Conf. dr. ing. Raluca Brehar"
+  },
+  {
+    "question": "Who teaches the Programare Web?",
+    "answer": "Prof. dr. ing. Ionuț Anghel – Ionut.Anghel@cs.utcluj.ro"
+  },
+  {
+    "question": "Who teaches the Programming in assembly language?",
+    "answer": "Prof. dr. ing. Sebestyén Gheorghe"
+  },
+  {
+    "question": "Who teaches the Computer programming?",
+    "answer": "Conf. dr. ing. Ion Giosan"
+  },
+  {
+    "question": "Who teaches the Project Protocols and Communications networks?",
+    "answer": "Conf. dr. ing. Emil Cebuc"
+  },
+  {
+    "question": "Who teaches the Design with microprocessors?",
+    "answer": "Conf. dr. ing. Mihai Negru"
+  },
+  {
+    "question": "Who teaches the User interface design?",
+    "answer": "Conf. dr. ing. Teodor Ştefănuţ"
+  },
+  {
+    "question": "Who teaches the Logical design?",
+    "answer": "Prof. dr. ing. Octavian Creț"
+  },
+  {
+    "question": "Who teaches the Proiectare software?",
+    "answer": "Prof. dr. ing. Mihaela Dînşoreanu"
+  },
+  {
+    "question": "Who teaches the Date database design?",
+    "answer": "Lecturer dr. ing. Călin Cenan"
+  },
+  {
+    "question": "Who teaches the Designing computer networks?",
+    "answer": "Conf. dr. ing. Emil"
+  },
+  {
+    "question": "Who teaches the Designing operating systems?",
+    "answer": "Conf. dr. ing. Adrian Coleșa"
+  },
+  {
+    "question": "Who teaches the Design of numerical systems?",
+    "answer": "Şl. dr. ing. Lișman Dragoș"
+  },
+  {
+    "question": "Who teaches the Design of translators?",
+    "answer": "Conf. dr. ing. Emil"
+  },
+  {
+    "question": "Who teaches the Project Management?",
+    "answer": "Prof. dr. eng. Mihaela Dînșoreanu"
+  },
+  {
+    "question": "Who teaches the Project Preparing Methodology?",
+    "answer": "Assoc. prof. dr. eng. Tudor Mureșan"
+  },
+  {
+    "question": "Who teaches the Psychology of education?",
+    "answer": "Lector dr. Trif Gheorghe Florin"
+  },
+  {
+    "question": "Who teaches the Computer networks?",
+    "answer": "Prof. dr. ing. Vasile Dădârlat"
+  },
+  {
+    "question": "Who teaches the The security of systems and applications?",
+    "answer": "Şl. dr. ing. Marius Joldoș"
+  },
+  {
+    "question": "Who teaches the Knowledge -based systems?",
+    "answer": "Prof. dr. ing. Adrian Groza"
+  },
+  {
+    "question": "Who teaches the Quality systems in TI?",
+    "answer": "Şl. dr. Anca"
+  },
+  {
+    "question": "Who teaches the Input/output systems and peripheral equipment?",
+    "answer": "Prof. dr. ing. Zoltan"
+  },
+  {
+    "question": "Who teaches the Sisteme de operare?",
+    "answer": "Conf. dr. ing. Ciprian Oprișa"
+  },
+  {
+    "question": "Who teaches the Forms?",
+    "answer": "Șl. dr. ing. Andra Petrovai"
+  },
+  {
+    "question": "Who teaches the Distributed systems?",
+    "answer": "Prof. dr. ing. Tudor Cioara"
+  },
+  {
+    "question": "Who teaches the Sisteme expert?",
+    "answer": "Conf. dr. ing. Radu"
+  },
+  {
+    "question": "Who teaches the Sisteme Informatice Distribuite?",
+    "answer": "Șl. dr. ing. Marcel Antal"
+  },
+  {
+    "question": "Who teaches the Sisteme informatice?",
+    "answer": "Conf.dr.ing. Ovidiu Pop – Ovidiu.Pop@cs.utcluj.ro"
+  },
+  {
+    "question": "Who teaches the Sisteme Inteligente?",
+    "answer": "Prof. dr. Ing Adrian Groza"
+  },
+  {
+    "question": "Who teaches the Software design?",
+    "answer": "Prof. dr. eng. Mihaela Dînșoreanu"
+  },
+  {
+    "question": "Who teaches the Software engineering?",
+    "answer": "Prof. dr. eng. Eneia Todoran"
+  },
+  {
+    "question": "Who teaches the Special Mathematics I?",
+    "answer": "Prof. dr. Daniela Roșca"
+  },
+  {
+    "question": "Who teaches the Special Mathematics in engineering?",
+    "answer": "Prof. dr. Ioan Rasa"
+  },
+  {
+    "question": "Who teaches the The structure of the calculation systems?",
+    "answer": "Prof. dr. ing. Gheorghe Sebestyen"
+  },
+  {
+    "question": "Who teaches the Structure of Computer Systems?",
+    "answer": "Prof. dr. eng. Gheorghe Sebestyen"
+  },
+  {
+    "question": "Who teaches the Data structures and algorithms?",
+    "answer": "Conf. dr. ing. Camelia Lemnaru"
+  },
+  {
+    "question": "Who teaches the Support of diploma project?",
+    "answer": "Supervisor"
+  },
+  {
+    "question": "Who teaches the Support of diploma project?",
+    "answer": "Supervisor License Project"
+  },
+  {
+    "question": "Who teaches the Systems Theory?",
+    "answer": "Assoc.prof. dr. eng. Paula Raica"
+  },
+  {
+    "question": "Who teaches the Tehnici de Programare Fundamentale?",
+    "answer": "Prof. dr. ing. Tudor Cioara"
+  },
+  {
+    "question": "Who teaches the Multimedia technologies?",
+    "answer": "Șl. dr. ing. Cornelia Melenti"
+  },
+  {
+    "question": "Who teaches the Wireless technologies and mobile devices?",
+    "answer": "Conf. dr. ing. Adrian Peculea"
+  },
+  {
+    "question": "Who teaches the Systems theory?",
+    "answer": "Conf.dr.ing. Paula Raica"
+  },
+  {
+    "question": "Who teaches the Translator design?",
+    "answer": "Assoc. prof. dr. eng. Emil Şefan Chifu"
+  },
+  {
+    "question": "Who teaches the User Interface Design?",
+    "answer": "Prof. dr. eng. Gorgan Dorian"
+  },
+  {
+    "question": "Who teaches the Volunteering 1/3/5/7?",
+    "answer": "Volunteer Commission per Faculty"
+  },
+  {
+    "question": "Who teaches the Volunteer 2/4/6/8?",
+    "answer": "Volunteer Commission per Faculty"
   }
 ]
