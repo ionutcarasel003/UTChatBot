@@ -1,0 +1,9 @@
+PAD_TOKEN = "<PAD>"
+SOS_TOKEN = "<SOS>"
+EOS_TOKEN = "<EOS>"
+MAX_LEN = 60
+BATCH_SIZE = 32
+EPOCHS = 500
+LR = 5e-4
+MODEL_PATH = "transformer_chatbot_model.pt"
+DATA_PATH = "../Data/qa_contextual_enhanced_cleaned_simple.json"
